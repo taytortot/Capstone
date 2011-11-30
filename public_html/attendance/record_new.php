@@ -3,7 +3,6 @@
 
 <?php
 include('../header.php');
-include('../config.php'); 
 include('../util.php');
 
 echo "<p>Beginning of Table</p>";
