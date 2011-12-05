@@ -12,8 +12,6 @@ $att = new Daily_Record(true);
 if (isset($_POST['submit'])) { 
 //if (false){
 
-  connect();
-
   $fin = $att->get_update_qry($_POST);
 
   mysql_query($fin) or die(mysql_error()); 
