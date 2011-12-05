@@ -24,13 +24,11 @@
 		</script>
 
 		<title>Papa Bear</title>
-
-
 	</head>
 	<body>
-
+</head>
+<body>
 		<div class='head'>
-
 
 		<h1>Papa Bear</h1>
 		<div class='metanav'>
@@ -85,13 +83,13 @@
 					</li>
 				</ul>
 				<div class="clear"></div>   
-
+				</div> <!-- ends 'left_menu' -->
 				<div class='right_menu'>
 
 				</div>
 
 				<hr />
 				<!--<img class='fuck' alt='logo' src="<?php echo($root . 'static/logo.jpg');?>" >-->
-			</div>
-		</div>
+			</div> <!-- ends 'metanav' -->
+		</div> <!-- ends 'head' -->
 		<div class='page'>

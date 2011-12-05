@@ -5,6 +5,7 @@
 //$root = '/Capstone/';
 $root = '/Capstone/public_html/';
 
+
 function connect(){
   // connect to db
   $link = mysql_connect('localhost', 't3st3r', '123qwe');
